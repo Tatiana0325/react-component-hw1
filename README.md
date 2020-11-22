@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/mnqi6xstj7qh2ma4?svg=true)](https://ci.appveyor.com/project/Tatiana0325/react-component-hw1)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
